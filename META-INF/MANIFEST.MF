@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/lib/modules/sequans_sdio.ko
+SHA1-Digest: HJWDEx2IEpqYnsuFEVzb8ARZuWU=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: ju7xaMOIk2Chr4ATYe4pqKmqmVE=
+
+Name: kernel/zImage
+SHA1-Digest: XKVK1pA9IRQqFgoxhXADyTH10qo=
+
+Name: kernel/mkbootimg
+SHA1-Digest: rWB5UCsYU2/dziGS5JHiIlhkk20=
+
+Name: system/lib/modules/bcm4329.ko
+SHA1-Digest: kqp61YSd+awIX0OedLJdZy7vPpg=
+
+Name: kernel/flash_image
+SHA1-Digest: E+YM9004dSwzZwia/yDaoY1/Rd8=
+
+Name: kernel/unpackbootimg
+SHA1-Digest: dgKdJjMtcu+mpXqr57uFld1EN4Y=
+
+Name: kernel/mkbootimg.sh
+SHA1-Digest: SNsreGsQ137HDaStdAYcHvqTzsU=
+
+Name: system/lib/modules/wimaxuart.ko
+SHA1-Digest: trwZVCuBefbXD/wPk5vgXcZwFNk=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: anNllEtU555b2xIp2efyzCyRIKk=
+
+Name: kernel/dd
+SHA1-Digest: +QoND/lEYluIaKn7rAgttHdyvPM=
+
+Name: system/lib/modules/wimaxdbg.ko
+SHA1-Digest: BwncG1CsFC15Ft7rdDahLvI+iBw=
+
